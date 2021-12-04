@@ -15,3 +15,5 @@ Data for each training example:
     * Current season IP, BB, SO, BAOpp, ERA
       * Only evaluate up to current game in season
   *Career IP, BB, SO, BAOpp, ERA
+  
+  https://www.retrosheet.org/gamelogs/glfields.txt
