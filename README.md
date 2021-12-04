@@ -1,3 +1,7 @@
+The information used here was obtained free of
+charge from and is copyrighted by Retrosheet.  Interested
+parties may contact Retrosheet at "www.retrosheet.org".
+
 Data for each training example:
 * Label: who wins (1 for home team, 0 for away team)
 * Features:
